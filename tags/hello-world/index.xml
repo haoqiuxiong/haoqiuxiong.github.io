@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello world on Ren Zhenyu&#39;s Website</title>
+    <link>https://rzy0901.github.io/tags/hello-world/</link>
+    <description>Recent content in hello world on Ren Zhenyu&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rzy0901.github.io/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World: My first Blog</title>
+      <link>https://rzy0901.github.io/blog/blog1/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzy0901.github.io/blog/blog1/</guid>
+      <description>Table of Contents    Header I Header II     Header I   Hello World: Code Block.
+#include&amp;lt;iostream&amp;gt;using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; endl; return 0; }   Hello World: equation $$ A = B*C \tag{1} $$
+  Hello World: pictures
+  Note for pictures:
+ I need to move the picture folder to the same directory of html.</description>
+    </item>
+    
+  </channel>
+</rss>
