@@ -1,8 +1,8 @@
 #!/bin/sh
-sudo cd ../page_generator-main/
+cd ../page_generator-main/
 sudo hugo
 sudo cp -r ../page_generator-main/public ../haoqiuxiong.github.io/
-sudo cd ../haoqiuxiong.github.io
+cd ../haoqiuxiong.github.io
 sudo git pull origin main
 sudo git add .
 sudo git commit -m "1"
