@@ -1,0 +1,11 @@
+#!/bin/sh
+sudo cd ../page_generator-main
+sudo hugo
+sudo cp -r pubilc ../haoqiuxiong.github.io
+sudo cd ../haoqiuxiong.github.io
+sudo git pull origin main
+sudo git add .
+sudo git commit -m "1"
+sudo git push origin main
+
+
