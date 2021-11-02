@@ -8,4 +8,7 @@ sudo git add .
 sudo git commit -m "1"
 sudo git push origin main
 
+except "Username for 'https://github.com': "
+send "haoqiuxiong"
+
 
