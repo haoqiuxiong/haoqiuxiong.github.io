@@ -6,7 +6,7 @@ cd ../haoqiuxiong.github.io
 sudo git pull origin main
 sudo git add .
 sudo git commit -m "1"
-sudo git push origin main \n
-haoqiuxiong
+sudo git push origin main
+
 
 
