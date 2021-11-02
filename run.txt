@@ -1,6 +1,9 @@
 #!/bin/sh
-cd ../page_generator-main/ ；hugo
+
+cd ../page_generator-main/;hugo
+
 sudo cp -r ../page_generator-main/public/* ../haoqiuxiong.github.io/
+
 cd ../haoqiuxiong.github.io/
 sudo git pull origin main
 sudo git add .
