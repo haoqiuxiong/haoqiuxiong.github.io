@@ -1,14 +1,13 @@
 #!/bin/sh
-
 cd ../page_generator-main/;hugo
-
-sudo cp -r ../page_generator-main/public/* ../haoqiuxiong.github.io/
-
+cp -r ../page_generator-main/public/blog/blog1.assets/ ../page_generator-main/public/blog/blog1/ 
+rm -rf ../page_generator-main/public/blog/blog1.assets/
+cp -r ../page_generator-main/public/* ../haoqiuxiong.github.io/
 cd ../haoqiuxiong.github.io/
-sudo git pull origin main
-sudo git add .
-sudo git commit -m "1"
-sudo git push origin main
+git pull origin main
+git add .
+git commit -m "1"
+git push origin main
 
 
 
