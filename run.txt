@@ -8,7 +8,4 @@ sudo git add .
 sudo git commit -m "1"
 sudo git push origin main &&
 
-haoqiuxiong &&
-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 &&
-
 
