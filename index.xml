@@ -12,15 +12,13 @@
     
     
     <item>
-      <title>Hello World: My first Blog</title>
+      <title>Word Power Made Easy</title>
       <link>https://haoqiuxiong.github.io/blog/blog1/</link>
-      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://haoqiuxiong.github.io/blog/blog1/</guid>
-      <description>Header I   Hello World: Code Block.
-#include&amp;lt;iostream&amp;gt;using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; endl; return 0; }   Hello World: equation $$ A = B*C \tag{1} $$
-    Paul George     Note for pictures:
- I need to move the picture folder to the same directory of html. Example:  # In the root path of our page_generator project: $ mv public/blog/blog1.</description>
+      <description>Introduction This is a note for a book named Word Power Made Easy. The words I learned from this book were summarized into the mind maps shown below. If you still struggled with the English words, I strongly recommend this book to you. It will refresh your idea about words, help you understand the prefix, root and suffix.
+Personality Types        Paul George     Note for pictures:</description>
     </item>
     
   </channel>
