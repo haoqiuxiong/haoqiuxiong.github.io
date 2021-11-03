@@ -2,6 +2,10 @@
 cd ../page_generator-main/;hugo
 cp -r ../page_generator-main/public/blog/blog1.assets/ ../page_generator-main/public/blog/blog1/ 
 rm -rf ../page_generator-main/public/blog/blog1.assets/
+
+cp -r ../page_generator-main/public/blog/blog2.assets/ ../page_generator-main/public/blog/blog2/ 
+rm -rf ../page_generator-main/public/blog/blog2.assets/
+
 cp -r ../page_generator-main/public/* ../haoqiuxiong.github.io/
 cd ../haoqiuxiong.github.io/
 git pull origin main
