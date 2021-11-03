@@ -18,8 +18,9 @@
       
       <guid>https://haoqiuxiong.github.io/blog/blog1/</guid>
       <description>Header I   Hello World: Code Block.
-#include&amp;lt;iostream&amp;gt;using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; endl; return 0; }   Hello World: equation $$ A = B*C \tag{1} $$   Note for pictures:
- I need to move the picture folder to the same directory of html. Example:  # In the root path of our page_generator project: $ mv public/blog/blog1.assets public/blog/blog1/  Or maybe I could set up a specific repositories to save all my pictures online.</description>
+#include&amp;lt;iostream&amp;gt;using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; endl; return 0; }   Hello World: equation $$ A = B*C \tag{1} $$
+    Paul George     Note for pictures:
+ I need to move the picture folder to the same directory of html. Example:  # In the root path of our page_generator project: $ mv public/blog/blog1.</description>
     </item>
     
   </channel>
